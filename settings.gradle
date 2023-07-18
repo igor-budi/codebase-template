@@ -1,0 +1,4 @@
+rootProject.name = 'codebase'
+includeBuild("DemoApp")
+includeBuild("DemoApp2")
+includeBuild("Logger")
